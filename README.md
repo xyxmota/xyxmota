@@ -97,6 +97,10 @@
 
 ###
 
+![snake animation](https://github.com/<xyxmota>/<xyxmota>/blob/output/github-contribution-grid-snake2.svg)
+
+###
+
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>

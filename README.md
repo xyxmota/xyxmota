@@ -12,7 +12,7 @@
 👥 **Followers:** 1
 ➕ **Following:** 2
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xyxmota&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xyxmota&show_icons=true&theme=Dark)
 
 ###
 

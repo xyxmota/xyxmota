@@ -7,15 +7,12 @@
 ###
 
 ## GitHub Stats
+
 📊 **Public Repositories:** 3
 👥 **Followers:** 1
 ➕ **Following:** 2
 
-</div>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xyxmota&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyxmota&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 ###
 

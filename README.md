@@ -6,9 +6,15 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xyxmota&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xyxmota&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+## GitHub Stats
+📊 **Public Repositories:** 3
+👥 **Followers:** 1
+➕ **Following:** 2
+
+</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xyxmota&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyxmota&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ###

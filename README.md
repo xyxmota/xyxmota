@@ -10,7 +10,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=xyxmota&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xyxmota&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="100" alt="languages graph"  />
 </div>
@@ -83,7 +83,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/31utlz6u4i6fdc34bo7krl336zmm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31utlz6u4i6fdc34bo7krl336zmm&count=4&unique=false" alt="Spotify recently played"  />
   </a>
